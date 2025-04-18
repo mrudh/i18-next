@@ -4,7 +4,7 @@ import LanguageDetector from "i18next-browser-languagedetector";
 
 i18n.use(LanguageDetector).use(initReactI18next).init({
     debug: true,
-    lng: 'en',
+    lng: "hi",
     resources : {
         en: {
             translation : {
@@ -13,7 +13,7 @@ i18n.use(LanguageDetector).use(initReactI18next).init({
         },
         fr: {
             translation : {
-                greeting : "Bonjour!"
+                greeting : "Bonjour!",
             }
         },
         hi: {
