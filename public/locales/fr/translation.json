@@ -1,0 +1,7 @@
+{
+    "greeting" : "Bonjour!",
+    "description" : {
+        "line1": "Vous regardz la <1>{{home}}</1>",
+        "line2": "Ceci est un"
+    }
+}
